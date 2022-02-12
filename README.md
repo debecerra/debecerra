@@ -1,6 +1,7 @@
 # Diego Becerra
 
-4th year computing science student and undergraduate teaching assistant at the University of Alberta (Edmonton, AB). Interested in backend software development, web technologies, accessibility in technology and scalability of computer systems. Former Software Engineer Intern at Microsoft. 
+- 4th year computing science student and undergraduate teaching assistant at the University of Alberta (Edmonton, AB)
+- Interested in backend software development, web technologies, accessibility in technology and scalability of computer systems
 
 ## Interesting Projects
 
