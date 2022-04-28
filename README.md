@@ -6,8 +6,8 @@ LinkedIn: https://www.linkedin.com/in/diego-e-becerra/
 
 ## Highlights
 
-### Social Distribution)
-A distributed social network web application and API service that allows users to create posts, like posts, comment on posts, and follow other authors.
+### Social Distribution
+A distributed social network web app and API service that allows users to create posts, like posts, comment on posts, and follow other authors.
  - Link: https://github.com/CMPUT404F21TEAM/social-distribution
  - Technologies used: Python, Django, Heroku
 
@@ -16,7 +16,7 @@ A mobile app that allows for crowd-sourced testing of phenomena and experiments.
  - Link: https://github.com/CMPUT301W21T28/trialio
  - Technologies used: Java, Android, Firebase
 
-### Sorting Visualization Tool
+#### Sorting Visualization Tool
 A website that provides visualizations of common sorting algorithms (Bubble Sort, Insertion Sort, Merge Sort, Heap Sort, Quick Sort).
  - Link: https://github.com/debecerra/Sorting-Visualization-Tool
  - Technologies used: JavaScript, HTML, CSS
