@@ -16,7 +16,7 @@ A mobile app that allows for crowd-sourced testing of phenomena and experiments.
  - Link: https://github.com/CMPUT301W21T28/trialio
  - Technologies used: Java, Android, Firebase
 
-#### Sorting Visualization Tool
+### Sorting Visualization Tool
 A website that provides visualizations of common sorting algorithms (Bubble Sort, Insertion Sort, Merge Sort, Heap Sort, Quick Sort).
  - Link: https://github.com/debecerra/Sorting-Visualization-Tool
  - Technologies used: JavaScript, HTML, CSS
