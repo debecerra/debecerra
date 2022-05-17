@@ -6,6 +6,14 @@ LinkedIn: https://www.linkedin.com/in/diego-e-becerra/
 
 ## Highlights
 
+### Chat App
+
+___This application is a work in progress___
+
+A web application that allows users to send and receive messages in real-time.
+ - Link:https://github.com/debecerra/chat-app
+ - Technologies: MERN (MongoDB, Express, React, Node)
+
 ### Social Distribution
 A distributed social network web app and API service that allows users to create posts, like posts, comment on posts, and follow other authors.
  - Link: https://github.com/CMPUT404F21TEAM/social-distribution
