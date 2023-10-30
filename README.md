@@ -1,10 +1,8 @@
 # Diego Becerra
 
-Hello! My name is Diego, and I am a 4th year Honors Computing Science student at the University of Alberta. This is my personal GitHub page which holds all of the personal projects and publicly-available school projects that I have worked on over the years. I am interested in all types of software development, but I'm especially interested in backend development, web technologies, and accessible technology.
+Hello!
 
-LinkedIn: https://www.linkedin.com/in/diego-e-becerra/
-
-## Highlights
+## Some past projects
 
 ### Chat App
 
